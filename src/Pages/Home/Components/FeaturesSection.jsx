@@ -69,7 +69,7 @@ const FeaturesSection = () => {
               Why Choose Us
             </span>
 
-            <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-secondary mt-2">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-secondary mt-2">
               Shopping Made Better
             </h2>
 
@@ -96,7 +96,7 @@ const FeaturesSection = () => {
                 </div>
 
                 {/* Content */}
-                <h3 className="font-serif text-xl font-semibold text-secondary mb-3">
+                <h3 className="text-xl font-semibold text-secondary mb-3">
                   {feature.title}
                 </h3>
 
